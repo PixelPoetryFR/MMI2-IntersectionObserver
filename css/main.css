@@ -1,0 +1,30 @@
+
+
+
+
+
+body { background-color: #fffffc; }
+body > header { background-color: #919d95; }
+body > footer { background-color: #505043; }
+figcaption {
+  margin: 0 0.5rem 1rem 0.5rem;
+  font-size: 0.75em;
+  font-style: italic;
+}/* figcaption { */
+
+p { margin: 0 0 1rem 0; }
+
+
+
+.title {
+  width: 100%;
+  color: #f9f7ed;
+  font-size: 4rem;
+  font-weight: normal;
+}/* .title { */
+main .title { color: #505043; }
+.section, .hero-body {
+  max-width: 64rem;
+  margin: 0 auto;
+}/* .section, .hero-body { */
+.section { padding-top: 0; }
