@@ -5,6 +5,7 @@
 
 document.addEventListener('DOMContentLoaded', function() {
 
+  
   'use strict';
   'esversion: 6';
 
@@ -12,6 +13,13 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 
+  // ---------- INTERSECTION OBSERVER
+  (function() {
+
+    console.log(`INIT Intersection Observer`);
+
+  })();
+  // ---------- /INTERSECTION OBSERVER
 
 
 
